@@ -1,7 +1,6 @@
 Links úteis para consulta rápida
 
-Configurando o Git no PC
-[https://docs.github.com/pt/get-started/quickstart/set-up-git]
+[Configurando o Git no PC][https://docs.github.com/pt/get-started/quickstart/set-up-git]
 
 Usando GitHub passo a passo
 [https://docs.github.com/pt/get-started/quickstart/hello-world]
