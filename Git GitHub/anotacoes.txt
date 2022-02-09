@@ -1,0 +1,9 @@
+- O Git é um sistema de controle de versões (VCS) de código aberto. O Git é responsável por tudo relacionado ao GitHub que acontece localmente no computador.
+
+- GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. O desenvolvedor inicial, e outros devs colaboradores, podem trabalhar em conjunto em projetos de qualquer lugar.
+
+- Instalar e manter atualizado o Git no PC.
+
+- Criar conta no GitHub. Configurar Git com as informações de conta do GitHub. 
+
+
