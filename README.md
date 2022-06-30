@@ -1,6 +1,6 @@
-# Bootcamp Dio - Take Blip Web Developer
+# Projetos Dio.me
 
-Repositório para o desafio Git/GitHub proposto pela Dio no Bootcamp Take Blip Web Developer.
+Repositório para os desafios e projetos propostos pela Dio nos cursos e bootcamps.
 
-Ficará apresentada as etapas e evolução nos cursos do bootcamp.
+Ficaram registrados as etapas, passos e evolução nos  mais variados cursos.
 
